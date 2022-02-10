@@ -31,7 +31,7 @@ depends: [
   "ott" {>= "0.28"}
   "lem" {>= "2018-12-14"}
   "linksem" {>= "0.3"}
-  "omd"
+  "omd" {< "1.4"}
   "conf-gmp"
   "conf-zlib"
 ]
